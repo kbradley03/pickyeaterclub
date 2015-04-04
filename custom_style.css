@@ -1,0 +1,40 @@
+
+#main-nav {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-style: italic;
+	font-size: 1em;
+	margin-top: 0;
+	padding: 0 0 1.5em;
+}
+
+#site-logo {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 4.200em;
+	font-weight: normal;
+	line-height: 1em;
+	letter-spacing: .04em;
+	margin-bottom: .1em;
+	padding-bottom: .1em;
+	position: relative;
+	text-transform: uppercase;
+}
+
+#site-description {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 0.85em;
+	line-height: 110%;
+	letter-spacing: 0.03em;
+	margin-top:.5em;
+    margin-bottom: 2em;
+	padding-top:.5em;
+	text-transform: uppercase;
+}
+
+
+
+.social-widget {
+	text-align: center;
+	margin-top: 2em;
+    margin-bottom: .5em;
+}
+
